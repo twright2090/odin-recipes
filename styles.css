@@ -1,0 +1,53 @@
+.main_body {
+    text-align: center;
+    background-color: #90ee90;
+    color: #FFFFFF;
+
+}
+
+.main_body > ul {
+    background-color: #ffcccb;
+    justify-content: center;
+}
+
+.puddingwithpic {
+    text-align: center;
+    background-color: #FFFF00;
+    color: #D3D3D3;
+    width: 400px;
+    margin: auto;
+    padding: 10px;
+}
+
+.puddingdesc {    
+    background-color: #42a00c;
+    color: #FFFFFF;
+    margin-top: 20px;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    width: 600px
+}
+
+.puddingingredients {
+    background-color: #ff474c;
+    color: #FFFFFF;
+    margin-top: 20px;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    width: 600px;
+}
+
+.puddingsteps {
+    background-color: #5a58ec;
+    color: #FFFFFF;
+    margin-top: 20px;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    width: 600px;
+}
